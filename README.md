@@ -2,8 +2,10 @@
 This is the minimum setup to run redis as a cluster locally
 
 +++++++++++++++++++++++++++++++++++
+
 DO NOT USE THIS IN PRODUCTION
 DEVELOPMENT ONLY
+
 +++++++++++++++++++++++++++++++++++
 
 ## 01 Install redis
